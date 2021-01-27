@@ -52,6 +52,6 @@ If you're interested in collaborating on such a project, please get in touch!
 <h2 align='left'>:postbox: Contact</h2>
 
 <ul>
-  <li><a href='https://linkedin.com/in/codejack'>LinkedIn</a></li>
   <li><a href='https://github.com/jh409'>GitHub</a></li>
+  <li><a href='https://linkedin.com/in/codejack'>LinkedIn</a></li>
 </ul>
