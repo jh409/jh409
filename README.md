@@ -20,8 +20,7 @@
   <li>Useless trivia</li>
 </ul>
  
-<h2 align='left'>:books: Reading<h2>
- 
+<h2 align='left'>:books: Reading</h2>
 <h3 align='left'>Currently</h3>
 <ul>
   <li><a href='https://teamtopologies.com/book'>Team Topologies</a></li>
