@@ -46,7 +46,7 @@
   
 <h2 align='left'>:thinking: Projects</h2>
 
-I'm currently toying with the idea of writing software for a traction control system for electric vehicles with all-whell-independent-drive. 
+I'm currently toying with the idea of writing software for a traction control system for electric vehicles with all-wheel-independent-drive. 
 
 If you're interested in collaborating on such a project, please get in touch!
 
