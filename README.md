@@ -1,11 +1,11 @@
 <h1 align='center'> Hi there! :wave:</h1>
 
 <h2 align='left'>:scroll: Summary</h2>
-<p align='justify'>I'm Jack and I'm a full-stack engineering leader with a love for automation, optimisation and simplification.</p>
+<p align='justify'>I'm Jack and I'm an engineering leader with a love for automation, optimisation and simplification.</p>
 
 <h2 align='left'>:computer: Software Development Interests</h2>
 <ul>
-  <li>Asynchronous distributed systems</li>
+  <li>Cloud native transformation</li>
   <li>Compliance at scale</li>
   <li>Security</li>
   <li>Team structures</li>
@@ -23,18 +23,17 @@
 <h2 align='left'>:books: Reading</h2>
 <h3 align='left'>Currently</h3>
 <ul>
+  <li><a href='https://www.oreilly.com/library/view/cloud-native-transformation/9781492048893/'>Cloud Native Transformation</a></li>
   
-  <li><a href='https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/'>Designing Data-Intensive Applications</a></li>
 </ul>
  
 <h3 align='left'>Recently</h3>
 <ul>
   <li><a href='https://docs.aws.amazon.com/whitepapers/latest/aws-governance-at-scale/aws-governance-at-scale.pdf'>AWS Governance at Scale</a></li>
-  <li><a href='https://docs.aws.amazon.com/wellarchitected/latest/framework/wellarchitected-framework.pdf'>AWS Well Architected Framework</a></li>
   <li><a href='https://itrevolution.com/sooner-safer-happier/'>Sooner, Safer, Happier</a></li>
   <li><a href='https://teamtopologies.com/book'>Team Topologies</a></li>
-  <li><a href='https://www.waterstones.com/book/the-body-keeps-the-score/bessel-van-der-kolk/9780141978611'>The Body Keeps the Score</a></li>
   <li><a href='https://itrevolution.com/the-unicorn-project/'>The Unicorn Project</a></li>
+  
 </ul>
 
 <h3 align='left'>Next</h3>
@@ -46,9 +45,8 @@
   
 <h2 align='left'>:thinking: Projects</h2>
 
-I'm currently toying with the idea of writing software for a traction control system for electric vehicles with all-wheel-independent-drive. 
+I'm currently thinking about how self-learning material could be more reactive to the level of knowledge demonstrated by the learner. I often find that a course I am studying is too basic for too long, or dives immediately into a topic which requires a 101 course first, both cases causing me to lose interest. I wonder if there's a way for learners to quickly get to the level they need and maintain their engagement with the material more effectively.
 
-If you're interested in collaborating on such a project, please get in touch!
 
 <h2 align='left'>:postbox: Contact</h2>
 
