@@ -1,22 +1,21 @@
 <h1 align='center'> Hi there! :wave:</h1>
 
 <h2 align='left'>:scroll: Summary</h2>
-<p align='justify'>I'm Jack and I'm an engineering leader with a love for automation, optimisation and simplification.</p>
+<p align='justify'>I'm Jack and I'm an engineer with a love for automation, optimisation and simplification.</p>
 
 <h2 align='left'>:computer: Software Development Interests</h2>
 <ul>
   <li>Cloud native transformation</li>
   <li>Compliance at scale</li>
   <li>Security</li>
-  <li>Team structures</li>
   <li>Value measurements</li>
 </ul>
 
 <h2 align='left'>:car: Other Interests</h2>
 <ul>
   <li>Automotive engineering</li>
-  <li>Cricket and football</li>
   <li>Languages</li>
+  <li>Cricket and football</li>
   <li>Useless trivia</li>
 </ul>
  
@@ -43,11 +42,6 @@
   <li><a href='https://sre.google/workbook/table-of-contents/'>The Site Reliability Workbook</a></li>
 </ul>
   
-<h2 align='left'>:thinking: Projects</h2>
-
-I'm currently thinking about how self-learning material could be more reactive to the level of knowledge demonstrated by the learner. I often find that a course I am studying is too basic for too long, or dives immediately into a topic which requires a 101 course first, both cases causing me to lose interest. I wonder if there's a way for learners to quickly get to the level they need and maintain their engagement with the material more effectively.
-
-
 <h2 align='left'>:postbox: Contact</h2>
 
 <ul>
